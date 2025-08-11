@@ -12,6 +12,7 @@ ultima v1
 - compiler mingw gcc
 - platform : multi
 - note : "watch yo step"
+- arch : win32,elf64
 
 credits
 - https://github.com/zserge/beep
