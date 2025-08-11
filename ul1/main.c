@@ -147,7 +147,7 @@ void funnies()
         {
             printf("%s\n", buf);
             fflush(stdout);
-            beep(100, 10);s
+            beep(100, 10);
         }
         char buf1[] = "cerff pgey+p gb dhvg";
         rotN(buf1, -13);
